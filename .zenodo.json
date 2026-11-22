@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for pre-declared acceptance plans, statistical sign-off verdicts and qualification records: acceptance plans fixed before evaluation, acceptance reports and qualification records that keep tool estimates, single-unit measurements and population bounds apart. No acceptance-plan validator, sign-off evaluator, qualification-record issuer or registered record format is released.",
+  "keywords": [
+    "acceptance testing",
+    "pre-registered evaluation",
+    "qualification records",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Acceptance",
+  "upload_type": "software"
+}
