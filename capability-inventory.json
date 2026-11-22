@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-ACCEPTANCE",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "b5bd912c59c7213ce17334b37bfbafc3d7c00c2881819de044dc5749ec3e9fb6"
+    "sha256": "c1af9ee1479909c8b6c7c29826b1011601033b9f7011c42922a9c45e9f8de8ec"
   }
 }

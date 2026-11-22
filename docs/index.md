@@ -12,4 +12,6 @@ CIRCUIT-ACCEPTANCE — repository foundation
 
 Circuit Acceptance is being built as the independent sign-off and qualification authority of the circuit platform. It binds requirements, budgets, coverage floors, blinded holdout rules and pre-trial statistical methods before evaluation begins, and issues qualification records and acceptance reports that keep tool estimates, single-board measurements, multi-device tolerance bounds and external regulatory certificates strictly apart. Its current executable surface is repository validation tooling. It has no installed acceptance-plan validator, sign-off evaluator, qualification-record issuer or qualified record schema.
 
+Circuit Acceptance is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
